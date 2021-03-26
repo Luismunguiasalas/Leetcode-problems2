@@ -11,3 +11,7 @@ Leetcode problems and my solutions
 # 1071. Greatest Common Divisor of Strings
 
 # 617. Merge Two Binary Trees
+
+# 700. Search in a Binary Search Tree
+
+# 965. Univalued Binary Tree
