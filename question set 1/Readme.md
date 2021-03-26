@@ -9,3 +9,5 @@ Leetcode problems and my solutions
 # 1089. Duplicate Zeros
 
 # 1071. Greatest Common Divisor of Strings
+
+# 617. Merge Two Binary Trees
