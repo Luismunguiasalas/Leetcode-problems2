@@ -15,3 +15,9 @@ Leetcode problems and my solutions
 # 700. Search in a Binary Search Tree
 
 # 965. Univalued Binary Tree
+
+# 226. Invert Binary Tree
+
+# 872. Leaf-Similar Trees
+
+# 257. Binary Tree Paths
