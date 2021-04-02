@@ -25,3 +25,13 @@ Leetcode problems and my solutions
 # 101. Symmetric Tree
 
 # 110. Balanced Binary Tree
+
+# 993. Cousins in Binary Tree
+
+# 543. Diameter of Binary Tree
+
+# 101. Symmetric Tree
+
+# 110. Balanced Binary Tree
+
+# 572. Subtree of Another Tree
