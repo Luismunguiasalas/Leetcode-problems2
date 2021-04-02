@@ -35,3 +35,5 @@ Leetcode problems and my solutions
 # 110. Balanced Binary Tree
 
 # 572. Subtree of Another Tree
+
+# 202. Happy Number
