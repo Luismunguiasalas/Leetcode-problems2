@@ -37,3 +37,5 @@ Leetcode problems and my solutions
 # 572. Subtree of Another Tree
 
 # 202. Happy Number
+
+# 594. Longest Harmonious Subsequence
