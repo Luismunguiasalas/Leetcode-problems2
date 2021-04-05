@@ -39,3 +39,5 @@ Leetcode problems and my solutions
 # 202. Happy Number
 
 # 594. Longest Harmonious Subsequence
+
+# 1805 Number of different integers in a String
