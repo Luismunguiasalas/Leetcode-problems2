@@ -41,3 +41,5 @@ Leetcode problems and my solutions
 # 594. Longest Harmonious Subsequence
 
 # 1805 Number of different integers in a String
+
+# 746. Min Cost Climbing Stairs
