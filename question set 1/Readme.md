@@ -55,3 +55,5 @@ Leetcode problems and my solutions
 # 404. Sum of Left Leaves
 
 # 9. Palindrome Number
+
+# 1576. Replace All ?'s to Avoid Consecutive Repeating Characters
