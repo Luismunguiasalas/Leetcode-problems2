@@ -59,3 +59,5 @@ Leetcode problems and my solutions
 # 1576. Replace All ?'s to Avoid Consecutive Repeating Characters
 
 # 997. Find the Town Judge
+
+# 392. Is Subsequence
