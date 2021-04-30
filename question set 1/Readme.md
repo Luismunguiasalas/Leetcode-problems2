@@ -61,3 +61,5 @@ Leetcode problems and my solutions
 # 997. Find the Town Judge
 
 # 392. Is Subsequence
+
+# 27. Remove Element
