@@ -63,3 +63,5 @@ Leetcode problems and my solutions
 # 392. Is Subsequence
 
 # 27. Remove Element
+
+# 1154. Day of the Year
