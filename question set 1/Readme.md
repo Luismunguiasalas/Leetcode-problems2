@@ -65,3 +65,5 @@ Leetcode problems and my solutions
 # 27. Remove Element
 
 # 1154. Day of the Year
+
+# 796. Rotate String
