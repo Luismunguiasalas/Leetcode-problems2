@@ -73,3 +73,5 @@ Leetcode problems and my solutions
 # 415 Add Strings
 
 # 225. Implement Stack using Queues
+
+# 1796. Second Largest Digit in a String
