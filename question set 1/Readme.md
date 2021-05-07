@@ -75,3 +75,5 @@ Leetcode problems and my solutions
 # 225. Implement Stack using Queues
 
 # 1796. Second Largest Digit in a String
+
+# 1013. Partition Array Into Three Parts With Equal Sum
