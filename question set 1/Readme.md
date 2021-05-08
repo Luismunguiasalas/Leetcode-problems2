@@ -77,3 +77,5 @@ Leetcode problems and my solutions
 # 1796. Second Largest Digit in a String
 
 # 1013. Partition Array Into Three Parts With Equal Sum
+
+# 303. Range Sum Query - Immutable
