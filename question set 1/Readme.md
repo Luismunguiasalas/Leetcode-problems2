@@ -79,3 +79,5 @@ Leetcode problems and my solutions
 # 1013. Partition Array Into Three Parts With Equal Sum
 
 # 303. Range Sum Query - Immutable
+
+# 1018. Binary Prefix Divisible By 5
