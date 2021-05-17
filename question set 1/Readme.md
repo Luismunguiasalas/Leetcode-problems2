@@ -87,3 +87,5 @@ Leetcode problems and my solutions
 # 26. Remove Duplicates from Sorted Array
 
 # 628. Maximum Product of Three Numbers
+
+# 171. Excel Sheet Column Number
