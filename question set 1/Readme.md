@@ -93,3 +93,7 @@ Leetcode problems and my solutions
 # 94. Binary Tree Inorder Traversal
 
 # 637. Average of Levels in Binary Tree
+
+# 349. Intersection of Two Arrays
+
+# 144. Binary Tree Preorder Traversal
