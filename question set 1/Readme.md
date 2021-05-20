@@ -97,3 +97,7 @@ Leetcode problems and my solutions
 # 349. Intersection of Two Arrays
 
 # 144. Binary Tree Preorder Traversal
+
+# 104. Maximum Depth of Binary Tree
+
+# 111. Minimum Depth of Binary Tree
